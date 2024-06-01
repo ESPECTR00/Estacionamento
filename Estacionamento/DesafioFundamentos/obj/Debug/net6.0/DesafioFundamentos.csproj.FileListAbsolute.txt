@@ -1,0 +1,15 @@
+L:\Nova pasta\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+L:\Nova pasta\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+L:\Nova pasta\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+L:\Nova pasta\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+L:\Nova pasta\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+L:\Nova pasta\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
